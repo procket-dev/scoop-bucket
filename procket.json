@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/procket-dev/procket-releases/releases/download/v0.1.0/procket_windows_amd64.zip",
+            "url": "https://github.com/procket-dev/procket-releases/releases/download/v0.1.1/procket_windows_amd64.zip",
             "bin": [
                 "procket.exe"
             ],
-            "hash": "4d36a40157f74b2752a163b9a4543572749fe17d47610b8887854d6a9900b98d"
+            "hash": "76e3a57c84219b652ecad26b24d25483bf8ef3cb5d498078e4c8e1f5b262d8c4"
         },
         "arm64": {
-            "url": "https://github.com/procket-dev/procket-releases/releases/download/v0.1.0/procket_windows_arm64.zip",
+            "url": "https://github.com/procket-dev/procket-releases/releases/download/v0.1.1/procket_windows_arm64.zip",
             "bin": [
                 "procket.exe"
             ],
-            "hash": "d85aafbdc418509c6d8453a783f7a2e9970b84cab16e7b856c1020e7f9626ca4"
+            "hash": "235363f16a577a3c8f90263f52027ffc51f522fc1cefb61ff7b36da5433b88b9"
         }
     },
     "homepage": "https://procket.dev",
